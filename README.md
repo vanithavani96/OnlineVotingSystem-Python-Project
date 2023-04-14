@@ -10,4 +10,4 @@
 * We have successfully completed the python project and we are giving the login option for student to cast their votes virtually throgh their personal gadgets
 * The advantage of online voting system is to avoid queues or physical contact and time management has achieved. The results will be automatically calculated by the system itself and there is no human error.
 ## Notes:
-* For more detailed explanation of our project, we have created the demo video which is attached with this repositry, kindly have a look.
+* For more detailed explanation of our project, we have created the demo video which is attached with this repository, kindly check it out.
